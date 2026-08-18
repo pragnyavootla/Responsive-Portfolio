@@ -20,7 +20,7 @@ For this task, I designed and developed a personal portfolio website and enhance
 - HTML5
 - CSS3
 - Flexbox
-- CSS Media Queries
+- CSS Media Querie
 - Google Fonts (Oswald and Roboto Condensed)
 
 ## Responsive Design Implementation
